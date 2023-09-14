@@ -1,7 +1,5 @@
 export const homepage = 'budget';
 
-export const publicUrl = location?.origin + '/' + homepage;
-
 const uiRoot = '/' + homepage;
 
 export const UI_ROUTES = {

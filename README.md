@@ -6,9 +6,9 @@ REST API for service "Budget"
 
 <summary>Tech details</summary>
 
-### TS
+### TypeScript
 
-100% TypeScript
+100% TS in strict mode
 
 ### Express.js
 
