@@ -6,9 +6,20 @@ REST API for service "Budget"
 
 <summary>Tech details</summary>
 
+### TS
+
 100% TypeScript
-HTTP request routing, auth - Express.js
-Database - Postgre
+
+### Express.js
+
+HTTP request routing, auth
+
+### Database
+
+Postgre + TypeORM
+
+### CI/CD
+
 Ready to deploy to container (folder dockerfile and config example in folder "deploy")
 
 </details>
